@@ -1,1 +1,2 @@
 text file B
+this if ritten in GitHub
